@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/bash -x
 
 # This script is meant to be used with a fresh clone of DetectionLab and
 # will fail to run if boxes have already been created or any of the steps
